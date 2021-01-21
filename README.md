@@ -21,4 +21,4 @@ I am currently working on honing my skills I have learned for the past 15 weeks 
 I am looking to not only show what I have learned in a new career, but continue learning and growning as a developer.
 If you are intrested in working with or just chatting with me you can reach me at:
 - breanna.lunsford17@gmail.com
-- ![LinkedIn](https://www.linkedin.com/in/breanna-lunsford/)
+- https://www.linkedin.com/in/breanna-lunsford/
