@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Full Stack Software Developer with a background in medical and accounting. I use my diverse experience and skills in combination with my knowledge in Software Engineering to make communication and understanding between parties clear. My goal is to work on a team with challenging problems that allow me to grow as a professional and give my best to clients. Combining these skills, I will achieve not only my goals, but client and employer goals. I have tech skills in: MERN Stack (Mongo DB, Express.js, React.js, and Node.js), Mongoose, HTML5 (Hypertext Markup Language), CSS 3 (Cascading Style Sheet), JavaScript es6, jQuery, GitHub, Trello, Ruby on Rails, Python, Firebase, Netlify, and Heroku.
+I am a Full Stack Software Developer with a background in medical and accounting. I use my diverse experience and skills in combination with my knowledge in Software Engineering to make communication and understanding between parties clear. My goal is to work on a team with challenging problems that allow me to grow as a professional and give my best to clients. Combining these skills, I will achieve not only my goals, but client and employer goals. I have tech skills in: MERN Stack (Mongo DB, Express.js, React.js, and Node.js), Mongoose, HTML5 (Hypertext Markup Language), CSS 3 (Cascading Style Sheet), JavaScript es6, jQuery, GitHub, Trello, Ruby on Rails, Python, Firebase, SQL,PosgreSQL, Netlify, and Heroku.
 
 I am currently working on honing my skills I have learned for the past 15 weeks while attending General Assembly's Software Engineering bootcamp, 100 Days of Coding Challenge, my professional portfolio, and more!
 
